@@ -1,2 +1,2 @@
 # game-of-life
-Testing Git Configuration
+Testing First commit to Jenkins
